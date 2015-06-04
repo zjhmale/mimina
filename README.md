@@ -8,13 +8,13 @@ a clojure wrapper for typesafe config lib to get property in config files
 
 * get config
 
-```
+```clj
 (get-config config-file-name)
 ```
 
 * get property
 
-```
+```clj
 (get-property config)
 ```
 

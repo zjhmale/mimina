@@ -1,4 +1,4 @@
-(defproject mimina "0.1.0-SNAPSHOT"
+(defproject mimina "0.1.0"
   :description "a clojure wrapper for typesafe config"
   :url "https://github.com/zjhmale/mimina"
   :license {:name "Eclipse Public License"
